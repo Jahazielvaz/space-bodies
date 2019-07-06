@@ -1,12 +1,18 @@
 # Space Bodies
-Space Bodies allows you to explore many different celestial bodies such as black holes, stars, neutron stars, planets, etc. while giving you the opportunity to learn more about them.
+*Space Bodies allows you to explore many different celestial bodies such as black holes, stars, neutron stars, planets, etc. while giving you the opportunity to learn more about them.*
 
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+This project has been initialized with create-react-app. Any extra dependencies used will be saved locally.
+Follow these simple steps
+1. Fork This Repo
+2. run npm or yarn (Based on your local machine) install
+3. run npm start for testing purposes
 
-Prerequisites
-What things you need to install the software and how to install them
+## Prerequisites
+* npm or yarn: You need to make sure you have npm or yarn installed in your local machine. Here's a link if you need help installing it - [Installing NPM](https://treehouse.github.io/installation-guides/mac/node-mac.html) [Installing Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+* create-react-app: You need to make sure create-react-app is installed globally in your machine. If you need to, you can just run this code - npm install create-react-app -g
+
 
 Give examples
 Installing
