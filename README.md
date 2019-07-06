@@ -10,7 +10,7 @@ Follow these simple steps
 3. run npm start for testing purposes
 
 ## Prerequisites
-* npm or yarn: You need to make sure you have npm or yarn installed in your local machine. Here's a link if you need help installing it - [Installing NPM](https://treehouse.github.io/installation-guides/mac/node-mac.html) [Installing Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+* npm or yarn: You need to make sure you have npm or yarn installed in your local machine. Here's a link if you need help installing it - [Installing NPM](https://treehouse.github.io/installation-guides/mac/node-mac.html) or  [Installing Yarn](https://yarnpkg.com/lang/en/docs/install/#mac-stable)
 * create-react-app: You need to make sure create-react-app is installed globally in your machine. If you need to, you can just run this code - npm install create-react-app -g
 
 
