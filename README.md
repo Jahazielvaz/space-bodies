@@ -1,8 +1,8 @@
 # Space Bodies
 Space Bodies allows you to explore many different celestial bodies such as black holes, stars, neutron stars, planets, etc. while giving you the opportunity to learn more about them.
----
 
-Getting Started
+
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 Prerequisites
